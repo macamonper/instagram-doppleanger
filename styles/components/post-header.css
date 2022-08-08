@@ -1,0 +1,21 @@
+.post-header h1 {
+  font-weight: 500;
+  font-size: 0.875rem;
+  line-height: 1.0625em;
+}
+
+.user-img img {
+  border-radius: 50%;
+  border: 1px solid transparent;
+}
+
+.user-info h1 {
+  font-weight: 500;
+  font-size: 0.875rem;
+  line-height: 1.0625em;
+}
+.user-info h5 {
+  font-weight: 400;
+  font-size: 0.625em;
+  line-height: 0.75em;
+}

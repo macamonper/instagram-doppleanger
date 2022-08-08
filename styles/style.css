@@ -1,1 +1,11 @@
-@import "./components/reset.css"
+@import "./components/reset.css";
+@import "./components/layout.css";
+@import "./components/post.css";
+@import "./components/post-header.css";
+@import "./components/post-img.css";
+@import "./components/post-commentaries.css";
+
+
+
+
+

@@ -1,0 +1,91 @@
+body {
+  width: 100%;
+  height: 64em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Inter", sans-serif;
+}
+
+.post {
+  width: 32.9375em;
+}
+
+.post-header {
+  height: 4.6875em;
+  display: flex;
+  align-items: center;
+}
+
+.user-img {
+  width: 3.125em;
+  height: 3.125em;
+  margin: 0em 1.5625em 0em 1.5625em;
+}
+
+.user-info {
+  width: 7.3125em;
+  height: 2.375em;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.post-img {
+  height: 20.3125em;
+  width: 100%;
+}
+
+.post-actions {
+  width: 100%;
+}
+.post-user-interactions {
+  display: flex;
+  height: 1.5625em;
+  padding: 1.096875em 0em 0em 1.5625em;
+}
+
+.post-commentaries {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.post-caption,
+.post-comments,
+.create-comment {
+  width: 29.8125em;
+}
+.post-caption {
+  display: flex;
+  margin: 1.791875em 0 1.375em;
+  height: 1.875em;
+}
+.caption {
+  text-align: justify;
+}
+
+.comment-container {
+  margin-bottom: 0.7em;
+}
+
+.create-comment {
+  height: 3.4375em;
+  display: flex;
+  align-items: center;
+
+  justify-content: space-between;
+  margin-top: 8em;
+}
+
+.create-comment textarea {
+  width: 90%;
+  padding: 2em 0em 1.25em 0.9375em;
+}
+.create-comment button {
+  padding: 0em 1.25em 0em 1.25em;
+  margin: 0;
+}
