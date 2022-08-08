@@ -99,13 +99,13 @@ const addCommentHtml = (arr) => {
       acc +
       `
       <div class="comment-container">
-              <p class="username-tag">
-                ${comment.user}
-                <span class="comment-posted">
-                ${comment.comment}
-                </span>
-              </p>
-            </div>
+        <p class="username-tag">
+          ${comment.user}
+          <span class="comment-posted">
+            ${comment.comment}
+          </span>
+        </p>
+      </div>
       `
     );
   }, "");
