@@ -10,4 +10,4 @@ In this mini project I´ve created an instagram post using HTML,CSS and JS. Also
 [https://picsum.photos/](https://picsum.photos/) → Image API
 
 # Deployment
-You can see it here [Surge](https://instagram-doppelganger.surge.sh)
+You can see it here [IG-DOPPELGANGER](https://instagram-doppelganger.surge.sh)
